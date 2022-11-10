@@ -278,7 +278,7 @@ header {
 }
 
 @media screen and (max-width: 768px){
-    .catchcopy video {
+    .catchcopy  {
         height: 700px;
         width: 500px;
         object-fit: cover;
